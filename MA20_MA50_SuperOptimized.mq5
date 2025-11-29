@@ -129,5 +129,5 @@ void OnTick()
          }
       }
    }
-}
+}Initial commit: MA20_MA50 Super Optimized EA
 //+--------------------Initial commit: MA20_MA50 Super Optimized EA----------------------------------------------+
